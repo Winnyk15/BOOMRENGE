@@ -15,7 +15,7 @@ Currently there are no bugs.
 ## Technologies Used
 Boomrenge is created with the help of HTML, CSS and JavaScript.
 ## Support and contact details
-Incase you encounter a bug don't hesitate to reach out @kahendahwinnie.gmail.com
+Incase you encounter a bug don't hesitate to reach out Email:kahendahwinnie.gmail.com
 ### License 
 
 Copyright (c) {2020} **{BOOMRENGE}**
