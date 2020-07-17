@@ -16,7 +16,7 @@ Currently there are no bugs.
 Boomrenge is created with the help of HTML, CSS and JavaScript.
 ## Support and contact details
 Incase you encounter a bug don't hesitate to reach out @kahendahwinnie.gmail.com.
-### License MIT
+### License 
 
 Copyright (c) {2020} **{BOOMRENGE}**
   
