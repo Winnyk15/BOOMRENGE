@@ -1,0 +1,14 @@
+h1 {
+    color: darkcyan;
+    text-align: center;
+}
+
+h2 {
+    color: darkslateblue;
+    font-style: italic;
+    text-align: center;
+}
+
+p {
+    font-family: sans-serif;
+}
