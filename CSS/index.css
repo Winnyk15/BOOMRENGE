@@ -1,19 +1,78 @@
 body {
+    font-family: 'Quicksand', sans-serif;
     background-color: mediumpurple;
-    margin: 0 10%;
+    font-size: 17px;
 }
 
 h1 {
-    color: navy;
+    font-size: 36px;
+    padding-top: 20px;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+#year-input{
+    border-radius: 5px;
+    width: 60px;
+    height: 20px;
+    box-shadow: 2px 2px #000000;
+}
+
+#month-input{
+    border-radius: 5px;
+    width: 60px;
+    height: 20px;
+    box-shadow: 2px 2px #000000;
+}
+
+#get-name{
+    border-radius: 5px;
+    color: #000000;
+    background-color: blueviolet;
+    text-align: center;
+    border: solid 1px #000000;
+    width: 108px;
+    height: 32px;
+    font-size: 13px;
+    box-shadow: 2px 2px #000000;
+}
+
+#result{
     text-align: center;
 }
 
-h2 {
-    color: darkslateblue;
-    font-style: italic;
-    text-align: center;
+.content{
+    background-color: rgba(red, green, blue, alpha);
+    /* height: 600px; */
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10%;
+    margin-bottom: auto;
+    padding-bottom: 20px;
+    box-shadow: 2px 2px #000000;
+    border-radius: 0.5%;
 }
 
-p {
-    font-family: sans-serif;
+.research{
+    text-decoration: underline;
+    color: white;
+}
+
+.clear{
+    border-radius: 5px;
+    color: 000000;
+    background-color: aqua;
+    text-align: center;
+    border: solid 1px #000000;
+    width: 108px;
+    height: 32px;
+    font-size: 13px;
+    box-shadow: 2px 2px #000000;
+}
+
+a:hover{
+    color: cadetblue;
 }
