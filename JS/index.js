@@ -13,7 +13,6 @@ function getAkanName () {
         }
     }
 }
-
 let myGenderValue = getGender();
 console.log(myGenderValue);
 
@@ -93,4 +92,5 @@ if (myGenderValue == "male" && monthValid && dayValid) {
     return false;
 } else {
     alert("You entered an invalid day or month, please try again");
+}
 }
