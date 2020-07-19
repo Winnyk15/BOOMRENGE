@@ -19,5 +19,5 @@ Boomrenge is created with the help of HTML, CSS and JavaScript.
 Incase you encounter a bug don't hesitate to reach out Email:kahendahwinnie@gmail.com
 ### License [MIT] [https://github.com/Winnyk15/BOOMRENGE/blob/master/LICENSE]
 
-Copyright (c) {2020} **{BOOMRENGE}**
+Copyright (c) {2020} **{BOOMRENGE}**  https://winnyk15.github.io/BOOMRENGE/.
   
