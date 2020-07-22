@@ -13,6 +13,7 @@ function getAkanName () {
         }
     }
 }
+
 let myGenderValue = getGender();
 console.log(myGenderValue);
 
